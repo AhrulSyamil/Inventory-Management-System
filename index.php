@@ -427,6 +427,9 @@
 							<a class="nav-link active" data-toggle="tab" href="#itemSearchTab">Item</a>
 						</li>
 						<li class="nav-item">
+							<a class="nav-link" data-toggle="tab" href="#vendorSearchTab">Supplier</a>
+						</li>
+						<li class="nav-item">
 							<a class="nav-link" data-toggle="tab" href="#customerSearchTab">Pelanggan</a>
 						</li>
 						<li class="nav-item">
@@ -435,9 +438,7 @@
 						<li class="nav-item">
 							<a class="nav-link" data-toggle="tab" href="#purchaseSearchTab">Pembelian</a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" data-toggle="tab" href="#vendorSearchTab">Supplier</a>
-						</li>
+						
 					</ul>
   
 					<!-- Tab panes -->
@@ -482,6 +483,9 @@
 							<a class="nav-link active" data-toggle="tab" href="#itemReportsTab">Item</a>
 						</li>
 						<li class="nav-item">
+							<a class="nav-link" data-toggle="tab" href="#vendorReportsTab">Supplier</a>
+						</li>
+						<li class="nav-item">
 							<a class="nav-link" data-toggle="tab" href="#customerReportsTab">Pelanggan</a>
 						</li>
 						<li class="nav-item">
@@ -490,9 +494,7 @@
 						<li class="nav-item">
 							<a class="nav-link" data-toggle="tab" href="#purchaseReportsTab">Pembelian</a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" data-toggle="tab" href="#vendorReportsTab">Supplier</a>
-						</li>
+						
 					</ul>
   
 					<!-- Tab panes for reports sections -->
